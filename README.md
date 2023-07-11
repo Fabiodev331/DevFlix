@@ -3,8 +3,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Screens
-<div align="center" >
+<div align="center" display="flex" flex-direction="row" >
+ <img src="https://github.com/Fabiodev331/DevFlix/assets/110556739/cdb3a421-66dd-4e36-95da-e6381825f59e" width="500px" />
  <img src="https://github.com/Fabiodev331/DevFlix/assets/110556739/acbdaf95-bb83-4bf2-98df-393c3090aa27" width="500px" />
+ 
 </div>
 
 ## Available Scripts
