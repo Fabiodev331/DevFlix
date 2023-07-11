@@ -4,9 +4,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Screens
 <div align="center" display="flex" flex-direction="row" >
- <img src="https://github.com/Fabiodev331/DevFlix/assets/110556739/cdb3a421-66dd-4e36-95da-e6381825f59e" width="500px" />
- <img src="https://github.com/Fabiodev331/DevFlix/assets/110556739/acbdaf95-bb83-4bf2-98df-393c3090aa27" width="500px" />
- 
+ <img src="https://github.com/Fabiodev331/DevFlix/assets/110556739/cdb3a421-66dd-4e36-95da-e6381825f59e" width="750px" />
+ <img src="https://github.com/Fabiodev331/DevFlix/assets/110556739/acbdaf95-bb83-4bf2-98df-393c3090aa27" width="750px" />
+ <img src="https://github.com/Fabiodev331/DevFlix/assets/110556739/6cb93804-647c-4a38-b805-086a83cbeecc" width="750px" />
 </div>
 
 ## Available Scripts
@@ -51,27 +51,3 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
